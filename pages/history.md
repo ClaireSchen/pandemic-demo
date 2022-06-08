@@ -3,7 +3,7 @@ title: History
 layout: about
 permalink: /history.html
 ---
-{% include feature/nav-menu.html sections="About the Collection" %}
+{% include feature/image.html objectid=coll008 %}
 
 ## History
 
