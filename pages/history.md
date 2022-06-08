@@ -3,7 +3,7 @@ title: History
 layout: about
 permalink: /history.html
 ---
-{% include feature/image.html objectid=coll008 %}
+{% include feature/jumbotron.html objectid="coll008" %}
 
 ## History
 
