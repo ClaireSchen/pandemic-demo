@@ -1,11 +1,11 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
 coll001,selfie.jpg,,,Office Selfie,Claire Schen,2021-09-01,Masked in the office for faculty profile picture,faculty portrait; office,University at Buffalo,,,,,Image;StillImage,image/jpeg,eng,private collection,
-coll002,dogcat.jpg,,,Pets on the Porch,Maddy Cherr,2020-6-21,Family and pet time on the front porch,pets; Claire,"Buffalo, NY",,,,,Image;StillImage,image/jpeg,eng,private collection,
+coll002,dogcat.jpg,,,Pets on the Porch,Maddy Cherr,2020-6-21,Family and pet time on the front porch,pets; Claire,"Buffalo, NY",42.90839955309842,-78.87467967465587,,,,Image;StillImage,image/jpeg,eng,private collection,
 coll003,pantrybaking.jpg,,,Baking Stuff,Claire Schen,March 25 2020,Rediscovery of baking with a burst of pantry organization,"flour, sugar, baking soda, GF flour; kitchen; pantry","Buffalo, NY",,,,,Image;StillImage,image/jpeg,eng,private collection,
 coll004,puzzle.jpg,,,Jigsaw Puzzle,Claire Schen,2022-6-6,1000 pieces on the oak table,jigsaw puzzle; oak table; living room,"Buffalo, NY",,,,,Image;StillImage,image/jpeg,eng,private collection,
 coll005,treadmill.jpg,,,Nordic Track,Claire Schen,2020-12-25,Home gym in the basement,Nordic track; treadmill; lights; basement; weights,"Buffalo, NY",,,,,Image;StillImage,image/jpeg,eng,private collection,
 coll006,book.jpg,,,Pandemic Reading,Claire Schen,2020-3-30,Third time was the charm to read Anna Karenina and the start of the rediscovery of fiction,Anna Karenina; book; reading,"Buffalo, NY",,,,,Image;StillImage,image/jpeg,eng,private collection,
-coll007,N95.jpg,,,N95,Kimberly Clark,2020-8,My duck-billed N95,N95 mask,University at Buffalo,,,,,Image;StillImage,image/jpeg,eng,private collection,
+coll007,N95.jpg,,,N95,Kimberly Clark,2020-8,My duck-billed N95,N95 mask,University at Buffalo,42.999687223632385,-78.78805775174874,,,,Image;StillImage,image/jpeg,eng,private collection,
 coll008,studio.jpg,,,Maddy's Studio,Claire Schen,2020-3-26,Attic space for finishing a semester of art school at home,art student; studio; Maddy,"Buffalo, NY",,,,,Image;StillImage,image/jpeg,eng,private collection,
 coll009,teddybear.jpg,,,Teddy Bear Adventure,Claire Schen,2020-4-1,"Teddy bear hunts for small children, and bored adults",teddy bear; stuffed dog; window; children,"Buffalo, NY",,,,,Image;StillImage,image/jpeg,eng,private collection,
 coll010,https://arcg.is/1brnzn0,,,Typhoid 1843,History 390,2022-3,StoryMaps collaborative local history project in Plagues and Pandemics course,Austin Flint; North Boston; typhoid; contact tracing,"Boston, NY",,,,,StoryMaps,,eng,HIS 390,
