@@ -1,5 +1,5 @@
 ---
-title: About
+title: History
 layout: about
-permalink: /about.html
+permalink: /history.html
 ---
