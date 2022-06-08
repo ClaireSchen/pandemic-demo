@@ -10,11 +10,9 @@ credits: true
 
 {% include feature/jumbotron.html objectid=coll008 %}
 
-{% include feature/nav-menu.html sections="About the Collection" %}
-
 ## About the Collection
 
-A digital collection pertaining to my memories of the pandemic at home and at UB. This is an idiosyncratic set of images, documents, and clips to capture elements of the lock down and longer pandemic. The collection hints at the alternative ways of living and working during the initial stages of the pandemic and the gradual return to soe kind of near normal.
+A digital collection pertaining to my memories of the pandemic at home and at UB. This is an idiosyncratic set of images, documents, and clips to capture elements of the lock down and longer pandemic. The collection hints at the alternative ways of living and working during the initial stages of the pandemic and the gradual return to some kind of near normal.
 
 - a CSV of collection metadata
 - a folder of JPG images, PDF documents, embedded video, and a StoryMaps project
